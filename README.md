@@ -21,7 +21,14 @@
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+
+<h2>📃 Certifications<h2>
+
+- [ISC2 CC - Certified in Cybersecurity](https://www.credly.com/badges/f2f3a32d-bde7-467e-9662-f945515b30fd/linked_in_profile)
+- [Swiss Cyber Institute - Certified security professional training](https://www.credential.net/0bedb94d-9ad6-42f0-bcf2-a3092f2ffcd0#acc.MsaymCE7)
+- [Google - Crash course on Python](https://www.coursera.org/account/accomplishments/verify/9JLHLYLYGGMY)
+
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
